@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1-100 passwd |sort
+cut -c 1-100 /etc/passwd |sort
