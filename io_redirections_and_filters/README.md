@@ -1,6 +1,3 @@
-alpargat
-4
-7
-7
+hol
+6
 a
-h
