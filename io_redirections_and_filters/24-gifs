@@ -1,2 +1,2 @@
 #!/bin/bash
-find *[.gif]
+find *[.git] | cut -d. -f1 | sort
