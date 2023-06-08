@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod oleh holla
+chmod --reference oleh hello
