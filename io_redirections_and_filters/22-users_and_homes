@@ -1,0 +1,2 @@
+#!/bin/bash
+rev /etc/passwd | cut -d: -f1 | rev
